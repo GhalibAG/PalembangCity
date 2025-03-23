@@ -13,3 +13,9 @@ $(function () {
         }
     });
 });
+
+$(document).ready(function(){
+    $("#testimonialCarousel").carousel({
+      interval: 700
+    });
+  });
