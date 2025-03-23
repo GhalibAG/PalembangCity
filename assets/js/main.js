@@ -16,6 +16,6 @@ $(function () {
 
 $(document).ready(function(){
     $("#testimonialCarousel").carousel({
-      interval: 900
+      interval: 1000
     });
   });
